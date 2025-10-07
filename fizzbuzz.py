@@ -1,4 +1,4 @@
-# "fizzbuzz.py" It's a program that has a range of numbers of 1 - 100 where it
+# "fizzbuzz.py" Is a program that has a range of numbers of 1 - 100 where it
 # shows on the terminal the number without anything in front, when the number
 # is a multiple of 3 it prints the number and "Fizz" in front, but when the
 # number is a multpiple of 5 it prints "Buzz", if they are both multiples
